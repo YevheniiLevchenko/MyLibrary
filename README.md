@@ -6,7 +6,7 @@ Provides default button component
 
 ## Instalation 
 
-To install package, import `url` in SPM.
+To install package, import `https://github.com/YevheniiLevchenko/MyLibrary.git` in SPM.
 
 ## Usage example
 
